@@ -1,0 +1,3 @@
+[submodule "KiCad Files/PicoGameController/Libraries/KiCad-RP-Pico"]
+	path = KiCad Files/PicoGameController/Libraries/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
