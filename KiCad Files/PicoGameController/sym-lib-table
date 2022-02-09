@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Libraries/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
   (lib (name "CustomParts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CustomParts.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_ADS112C04IPW")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ADS112C04IPW/2022-02-08_19-09-38.kicad_sym")(options "")(descr ""))
 )
